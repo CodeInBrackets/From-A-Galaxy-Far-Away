@@ -49,7 +49,7 @@ exit
 
 ## Extra 
 
-added this as a chat bot in facebook ... because is fun
+added this as a facebook chat bot deployed in heroku ... because seemed like a good idea
 
 ![screen shot 2017-02-16 at 15 07 28](https://cloud.githubusercontent.com/assets/3071208/23041216/bc0821c0-f459-11e6-8c5f-cb571c882b5c.png)
 
