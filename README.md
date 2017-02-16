@@ -1,4 +1,4 @@
-# From-A-Galaxy-Far-Away
+# ![logomakr_3opzev](https://cloud.githubusercontent.com/assets/3071208/23041307/1e9bb0a4-f45a-11e6-9470-f8c55656f604.png)
 
 ## Mission
 
@@ -52,3 +52,7 @@ exit
 added this as a chat bot in facebook ... because is fun
 
 ![screen shot 2017-02-16 at 15 07 28](https://cloud.githubusercontent.com/assets/3071208/23041216/bc0821c0-f459-11e6-8c5f-cb571c882b5c.png)
+
+### Logo
+
+People graphic by <a href="http://www.flaticon.com/authors/roundicons">Roundicons</a> from <a href="http://www.flaticon.com/">Flaticon</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Made with <a href="http://logomakr.com" title="Logo Maker">Logo Maker</a>
