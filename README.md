@@ -1,5 +1,7 @@
 # ![logomakr_3opzev](https://cloud.githubusercontent.com/assets/3071208/23041307/1e9bb0a4-f45a-11e6-9470-f8c55656f604.png)
 
+[![Build Status](https://travis-ci.org/CodeInBrackets/From-A-Galaxy-Far-Away.svg?branch=master)](https://travis-ci.org/CodeInBrackets/From-A-Galaxy-Far-Away)
+
 ## Mission
 
  Convert unkown language to roman and be able to know their real value in arabic numbers.
