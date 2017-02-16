@@ -1,0 +1,38 @@
+{
+  "name": "from-a-galaxy-far-away",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "depshrink": "bin/cmd.js"
+  },
+  "scripts": {
+    "start": "node .",
+    "start-dev": "nodemon .",
+    "start-cmd": "node bin/cmd.js",
+    "start-cmd-dev": "nodemon bin/cmd.js",
+    "test": "tape test/**/*-test.js | faucet",
+    "test-dev": "nodemon ./node_modules/tape/bin/tape test/**/*-test.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeInBrackets/From-A-Galaxy-Far-Away.git"
+  },
+  "author": "kanekotic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeInBrackets/From-A-Galaxy-Far-Away/issues"
+  },
+  "homepage": "https://github.com/CodeInBrackets/From-A-Galaxy-Far-Away#readme",
+  "devDependencies": {
+    "blue-tape": "^1.0.0",
+    "faucet": "0.0.1",
+    "nodemon": "^1.11.0",
+    "proxyquire": "^1.7.11",
+    "sinon": "^1.17.7",
+    "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "roman-arabic-converter": "github:codeinbrackets/Roman-Arabic-Converter"
+  }
+}
