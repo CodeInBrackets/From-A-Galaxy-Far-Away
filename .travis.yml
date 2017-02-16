@@ -1,0 +1,7 @@
+dist: trusty
+
+install:
+- npm install
+
+script:
+- npm test
