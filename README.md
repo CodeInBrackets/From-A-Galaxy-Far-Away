@@ -40,9 +40,9 @@ after that it can run any of the next npm scripts
 the program accepts any of the next expressions, if you fail to comply with it you will get a message expresing that your phrase is not correct.
 ```
 <word> is <Roman Number>
-[words] is <number> Credits$/
-/^how much is [words] \?$/
-/^how many Credits is [words] <word> \?$/
+[words] is <number> Credits
+how much is [words] ?
+how many Credits is [words] <word> ?
 reboot
 exit
 ```
