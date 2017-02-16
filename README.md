@@ -46,3 +46,7 @@ the program accepts any of the next expressions, if you fail to comply with it y
 reboot
 exit
 ```
+
+## Extra 
+
+added this as a chat bot in facebook ... because is fun
