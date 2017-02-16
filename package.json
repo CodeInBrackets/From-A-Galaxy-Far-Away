@@ -33,6 +33,9 @@
     "tape": "^4.6.3"
   },
   "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "request": "^2.79.0",
     "roman-arabic-converter": "github:codeinbrackets/Roman-Arabic-Converter"
   }
 }
