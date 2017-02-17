@@ -55,6 +55,10 @@ added this as a facebook chat bot deployed in heroku ... because seemed like a g
 
 ![screen shot 2017-02-16 at 15 07 28](https://cloud.githubusercontent.com/assets/3071208/23041216/bc0821c0-f459-11e6-8c5f-cb571c882b5c.png)
 
+## TODO
+- [ ] Improve the naming convention
+- [ ] Add more top level unit tests
+
 ### Logo
 
 People graphic by <a href="http://www.flaticon.com/authors/roundicons">Roundicons</a> from <a href="http://www.flaticon.com/">Flaticon</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Made with <a href="http://logomakr.com" title="Logo Maker">Logo Maker</a>
