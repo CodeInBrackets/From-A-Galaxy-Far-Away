@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/CodeInBrackets/From-A-Galaxy-Far-Away.svg?branch=master)](https://travis-ci.org/CodeInBrackets/From-A-Galaxy-Far-Away)
 [![Code Climate](https://codeclimate.com/github/CodeInBrackets/From-A-Galaxy-Far-Away/badges/gpa.svg)](https://codeclimate.com/github/CodeInBrackets/From-A-Galaxy-Far-Away)
+[![Dependency Status](https://gemnasium.com/badges/github.com/CodeInBrackets/From-A-Galaxy-Far-Away.svg)](https://gemnasium.com/github.com/CodeInBrackets/From-A-Galaxy-Far-Away)
+
 
 ## Mission
 
